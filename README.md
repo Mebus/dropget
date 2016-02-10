@@ -6,6 +6,9 @@ Simple python script to download files from Dropbox into a directory.
 
  * install python
  * `pip install dropbox`
+ * `git clone https://github.com/Mebus/dropget`
+ * `cd dropget`
+ *  edit dropget.py
 
 ## Usage
 

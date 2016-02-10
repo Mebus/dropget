@@ -2,7 +2,12 @@
 
 Simple python script to download files from Dropbox into a directory.
 
-## usage
+## Installation
+
+ * install python
+ * `pip install dropbox`
+
+## Usage
 
 Please be careful with this script. It is an alpha version.
 
